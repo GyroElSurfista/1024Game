@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Celda
+comment1.params=
+comment1.target=Celda()
+comment2.params=v
+comment2.target=void\ setValor(int)
+comment3.params=
+comment3.target=int\ getValor()
+comment4.params=o
+comment4.target=void\ setOcupada(boolean)
+comment5.params=
+comment5.target=boolean\ getOcupada()
+comment6.params=s
+comment6.target=void\ setSumada(boolean)
+comment7.params=
+comment7.target=boolean\ getSumada()
+numComments=8
